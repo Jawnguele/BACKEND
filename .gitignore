@@ -1,0 +1,5 @@
+backend-week1/
+my-http-server/
+node_modules/
+.DS_Store
+*.log
